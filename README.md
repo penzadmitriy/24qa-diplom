@@ -1,1 +1,1 @@
-# 24qa-diplom
+# 24qa_diplom
